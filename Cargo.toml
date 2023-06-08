@@ -1,0 +1,16 @@
+[package]
+name = "ss-graph-rs"
+version = "0.1.0"
+authors = ["ccbond <hgamiui9@gmail.com>"]
+edition = "2021"
+description = "A graph algorithm library written in Rust, primarily featuring a function for finding all paths."
+documentation = "https://docs.rs/ss-graph-rs"
+readme = "README.md"
+repository = "https://github.com/SyntSugar/ss-graph-rs.git"
+license-file = "LICENSE"
+keywords = ["graph", "find-all-paths"]
+categories = ["base-arithmetic"]
+exclude = ["/src"]
+publish = ["ss-graph-rs"]
+
+[dependencies]
