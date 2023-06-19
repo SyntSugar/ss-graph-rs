@@ -13,4 +13,8 @@ categories = ["base-arithmetic"]
 exclude = ["/src"]
 publish = true
 
+[lib]
+name = "ss-graph-rs"
+path = "src/lib.rs"
+
 [dependencies]
