@@ -14,7 +14,7 @@ exclude = ["/src"]
 publish = true
 
 [lib]
-name = "ss-graph-rs"
+name = "ss_graph_rs"
 path = "src/lib.rs"
 
 [dependencies]
