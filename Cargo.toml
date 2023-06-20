@@ -15,6 +15,6 @@ publish = true
 
 [lib]
 name = "ss_graph_rs"
-path = "src/lib.rs"
+path = "/src/lib.rs"
 
 [dependencies]
