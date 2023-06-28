@@ -2,6 +2,7 @@ use std::collections::HashMap;
 use std::collections::HashSet;
 use std::hash::Hash;
 
+#[derive(Clone, PartialEq, Eq)]
 pub struct Graph<T: Eq + Hash + Clone> {
     is_directed: bool,
     adjacency_list: HashMap<T, HashSet<T>>,

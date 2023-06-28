@@ -14,7 +14,7 @@ Installing this library is straightforward. First, make sure you have Rust insta
 
 ```toml
 [dependencies]
-ss-graph-rs = "0.1.0"
+ss-graph-rs = "0.1.8"
 ```
 
 Then, you can import and use it in your Rust files:
